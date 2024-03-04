@@ -105,6 +105,16 @@ button{
 
 .testimonial-block{
     display: flex;
-    padding: 20% 15%;
+    flex-direction: column;
+    padding: 10% 25%;
     background-color: #E5E7EB;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.quote-author{
+    text-align: right;
+    font-weight: bold;
 }
