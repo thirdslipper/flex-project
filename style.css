@@ -141,3 +141,17 @@ button{
     align-content: center; 
     border: 1px solid white;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom:0;
+    left:0;
+    right:0;
+    padding: 36px;
+    background-color: #1F2937;
+}
+.footer-text{
+    color: white;
+}
