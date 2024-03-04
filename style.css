@@ -118,3 +118,26 @@ button{
     text-align: right;
     font-weight: bold;
 }
+
+.bottom-sign-up-block{
+    padding: 5% 10%;
+}
+.sign-up-banner{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 5% 0;
+    color: white;
+}
+.call-to-action{
+    /* color: white; */
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.bottom-sign-up-block .sign-up{
+    display: flex;
+    align-content: center; 
+    border: 1px solid white;
+}
